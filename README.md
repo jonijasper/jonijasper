@@ -1,16 +1,16 @@
-## Hi there 👋
+## My personal repository to share stuff I make
 
-<!--
-**jonijasper/jonijasper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Learning new stuff:
+* [PLC with TwinCat 3](https://github.com/jonijasper/tc-hmi-sandbox)
+* [Assembly language](https://github.com/jonijasper/asmcode)
+* [Web dev](https://github.com/jonijasper/web)
+* [Console demo](https://github.com/jonijasper/pydemo)
 
-Here are some ideas to get you started:
+### Tools and helpers:
+Python:
+* [Helper modules](https://github.com/jonijasper/tools)
+* [HTML formatter](https://github.com/jonijasper/html-tools)
+* [Job searching](https://github.com/jonijasper/job-scraper)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Shell:
+* [Bash/vim rc-files](https://github.com/jonijasper/scripts-n-stuff)
